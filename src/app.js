@@ -1,4 +1,11 @@
 //Building a simple local server using http module
+// doing by http and usig common js
+// server throw https
+// modules
+// import export(common js)
+// static file handling 
+// grt or post request
+
 
 const http = require('http');
 const fs = require('fs');
